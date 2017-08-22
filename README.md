@@ -1,6 +1,6 @@
 # 5toryline
 
-5toryline is an exploration into our relationship with machines. With the rapid development of artificial intelligence and machine learning, we have never been closer to being able to co-create with the machines around us. 5toryline explores this idea by creating a platform in which you can collaboratively generate stories with your machine.
+5toryline is an exploration into human-machine relationships. With the rapid development of artificial intelligence and machine learning, we have never been closer to being able to co-create with the machines around us. 5toryline explores human-machine creativity by creating a platform in which you can collaboratively generate stories with your machine.
 
 You can find more information about this project here. (add CIID link)
 
