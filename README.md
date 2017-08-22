@@ -19,6 +19,9 @@ Follow the instructions included in NeuralTalk2 and Char-RNN to install all the 
 
 Go to the `/story-creator` directory and run the command `python storycreator.py` from terminal.
 
+### Add Models
+The models used for this project were created by Ross Goodwin and can be found at <a href='https://github.com/rossgoodwin/neuralsnap'>NeuralSnap</a>. Follow his instructions on how to download his models and place the files in the included models folder.
+
 ### openFrameworks
 Download the dataset of images at https://drive.google.com/drive/folders/0BwJRQX2ryWZ_bGpnVmZiZFkyUTg?usp=sharing
 
